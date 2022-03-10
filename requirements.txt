@@ -1,0 +1,8 @@
+streamlit==1.2.0
+numpy==1.21.4
+scikit-learn==1.0.1
+gunicorn==19.9.0
+nltk
+contractions==0.0.58
+spacy
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0-py3-none-any.whl
